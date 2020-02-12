@@ -1,1 +1,1 @@
-# figma-scripting-journal-
+# figma-scripting-journal
